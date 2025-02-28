@@ -1,7 +1,9 @@
 ## Raspberry Pi 5 - PIVPN Setup 
 
 1.1 First, create a port forwarding rule on your firewall/router for port 51820 UDP.
+
 1.2 Once Pi-hole is successfully installed and configured,see the following [Pi5 Installation and Pihole](https://github.com/ManolisCraftedTech/RaspberryDNS) visit https://www.pivpn.io/.
+
 2. Run the following command to install PiVPN
 
 <img width="495" alt="image" src="https://github.com/user-attachments/assets/a2ad238e-5915-42a5-a7f5-a0bf133bad3b" />
